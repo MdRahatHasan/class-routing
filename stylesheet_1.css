@@ -1,17 +1,18 @@
-#body{
-    background-color:;
-}
-.toper{
+#toper{
+    font-family: 'Festive', cursive;
     width: 100%;
     text-align: center;
     line-height: 10px;
 }
 #table{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
     text-align: center;
     width: 100%;
     border-collapse: collapse;
 }
 .grid{
+    
     display:grid;
     grid-template-columns: repeat(2,1fr);
     justify-items: start;
@@ -20,6 +21,7 @@
     margin-left:21%;
 }
 .rg{
+    font-family: sans-serif;
     line-height: 4px;
 }
 .break{
