@@ -1,0 +1,32 @@
+#body{
+    background-color: rgb(184, 216, 226);
+}
+.toper{
+    width: 90%;
+    text-align: center;
+    line-height: 10px;
+}
+#table{
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+}
+.grid{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items: start;
+}
+.second_shift{
+    margin-left:21%;
+}
+.rg{
+    line-height: 4px;
+}
+.break{
+    width: 1%;
+    transform: rotate(-90deg);
+}
+#main_table{
+    width: 90%;
+    margin: a;
+}
