@@ -1,4 +1,7 @@
 #toper{
+    display: inline-block;
+    height: auto;
+    font-size: 80%;
     font-family: 'Festive', cursive;
     width: 100%;
     text-align: center;
